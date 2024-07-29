@@ -5,8 +5,8 @@ import "./globals.css";
 const outfit = Outfit({ subsets: ["latin"], weight: ["300", "400", "600"] });
 
 export const metadata: Metadata = {
-  title: "次に(tsugini) | FScode",
-  description: "A basic NextJS template for Frontend Mentor Challenges",
+  title: "NFT Preview Card Component | FScode",
+  description: "Solution for NFT Preview Card Component challenge from Frontend Mentor",
 };
 
 export default function RootLayout({
