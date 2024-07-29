@@ -16,7 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${outfit.className} flex min-h-screen flex-col antialiased scroll-smooth bg-nft-very-dark-blue-main`}>
+      <body className={`${outfit.className} flex font-normal min-h-screen flex-col antialiased scroll-smooth bg-nft-very-dark-blue-main`}>
         {children}
       </body>
     </html>

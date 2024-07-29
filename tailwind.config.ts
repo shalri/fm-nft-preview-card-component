@@ -13,8 +13,8 @@ const config: Config = {
         "nft-cyan": "hsl(178, 100%, 50%)",
         "nft-very-dark-blue-main": "hsl(217, 54%, 11%)",
         "nft-very-dark-blue-card": "hsl(216, 50%, 16%)",
-        "nft-very dark blue-line": "hsl(215, 32%, 27%)",
-        "nft-white": "hsl(0, 0 %, 100 %)",
+        "nft-very-dark-blue-line": "hsl(215, 32%, 27%)",
+        "nft-white": "hsl(0, 0%, 100%)",
       },
       backgroundImage: {
         // "sample-bg": "/tsugini" // basepath of github pages
